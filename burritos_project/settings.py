@@ -83,7 +83,7 @@ DATABASES = {
  'NAME': 'dorameriosbacken$burritos_db',
  'USER': 'root',
  'PASSWORD': '1234',
- 'HOST': 'dorameriosbackend.pythonanywhere.comlocalhost',
+ 'HOST': 'dorameriosbackend.pythonanywhere.com',
  'PORT': '3307'
     }
 }
