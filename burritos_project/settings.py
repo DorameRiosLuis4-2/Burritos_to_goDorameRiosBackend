@@ -84,7 +84,7 @@ DATABASES = {
  'USER': 'root',
  'PASSWORD': '1234',
  'HOST': 'dorameriosbackend.pythonanywhere.com',
- 'PORT': '3307'
+ 'PORT': '3306'
     }
 }
 
