@@ -81,9 +81,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
  'NAME': 'dorameriosbacken$burritos_db',
- 'USER': 'root',
- 'PASSWORD': '1234',
- 'HOST': 'dorameriosbackend.pythonanywhere.com',
+ 'USER': 'dorameriosbacken',
+ 'PASSWORD': '7905120906Ladr.',
+ 'HOST': 'dorameriosbackend.mysql.pythonanywhere-services.com',
  'PORT': '3306'
     }
 }
